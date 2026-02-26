@@ -20,7 +20,7 @@ export default function HomePage() {
         <div className="relative mx-auto flex max-w-7xl flex-col items-start justify-center px-6 py-24 md:py-32">
           <Badge className="mb-4 bg-primary text-primary-foreground">Forge Your Strongest Self</Badge>
           <h1 className="text-4xl font-black uppercase tracking-tight md:text-6xl lg:text-7xl">
-            FORGE YOUR STRONGEST SELF
+            WELCOME TO EXCELLENCE
           </h1>
           <p className="mt-4 max-w-2xl text-base md:text-lg">
             Denver&apos;s premier strength and conditioning facility. Founded by Olympic athlete Marcus Steel,
